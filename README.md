@@ -1,4 +1,5 @@
 ## Hola bienvenid@s  👋
+Soy una desarrolladora de software apasionada por crear soluciones innovadoras y eficientes. Con experiencia en diferentes lenguajes de programación y frameworks, me encanta enfrentar desafíos y aprender nuevas tecnologías. 
 
 #IDE
 
